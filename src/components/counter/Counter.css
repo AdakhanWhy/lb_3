@@ -1,0 +1,9 @@
+.counter-container {
+	text-align: center;
+	margin-top: 50px;
+}
+
+.counter-display {
+	font-size: 48px;
+	margin-bottom: 20px;
+}
